@@ -6,7 +6,7 @@ import org.martin.designpatters.creational.factoryMethodPattern.services.Notific
 /**
  * @author victor.martingil
  **/
-public class FactoryMethodMain {
+public class FactoryPatternMain {
 
     public static void main(String[] args) {
 
