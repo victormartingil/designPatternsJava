@@ -9,4 +9,11 @@
 * The rest is like Factory Design Pattern.
 
 ## Singleton
+* This pattern prevent we instantiate more than one object from same class.
 
+## Prototype
+* With this pattern we can clone an object similar. 
+* We need to extend an interface ie "Cuenta" from "Cloneable" class
+* We can call from Implementation ie "CuentaImpl", the clone() method which will return the interface type (we need to cast this to the implemented type).
+
+## Builder
